@@ -1,3 +1,25 @@
+body {
+    font-size: 1rem;
+    color: black;
+    background:linear-gradient(azure, #FFFFFF);
+}
+
+li{
+    color: #00003F;
+    font-size: 1rem;
+}
+
+p {
+    color: #00003F;
+    font-size: 1rem;
+}
+
 h1 {
-    font-size: 14em;
+    font-size: 3rem;
+    color: #0B132B;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #0B132B;
 }
