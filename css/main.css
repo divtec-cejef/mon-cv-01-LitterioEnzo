@@ -1,16 +1,16 @@
 body {
     font-size: 1rem;
     color: black;
-    background:linear-gradient(azure, #FFFFFF);
+    background:linear-gradient(#FFFFFF, #222222);
 }
 
 li{
-    color: #00003F;
+    color: #003E3F;
     font-size: 1rem;
 }
 
 p {
-    color: #00003F;
+    color: #003E3F;
     font-size: 1rem;
 }
 
