@@ -2,7 +2,7 @@ body {
     font-size: 1rem;
     color: black;
     background:linear-gradient(lightgray, lightblue);
-    font-family: "Nunito Medium", sans-serif;
+    font-family: Nunito, sans-serif;
     text-align: left;
 }
 header{
