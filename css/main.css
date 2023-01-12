@@ -1,9 +1,9 @@
 body {
+    font-family: Nunito, sans-serif;
     font-size: 1rem;
+    font-weight: 400;
     color: black;
     background:linear-gradient(lightgray, lightblue);
-    font-family: Nunito, sans-serif;
-    text-align: left;
 }
 header{
     border-bottom: 10px double #003E3F;
