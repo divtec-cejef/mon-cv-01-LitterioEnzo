@@ -8,19 +8,19 @@ body {
     margin-right: 20%;
 }
 
-header{
+header {
     border-bottom: 10px double #003E3F;
     display: flex;
     justify-content: center;
 }
 
-main{
+main {
     background-image: url("../images/vaisseau.png");
     background-repeat: no-repeat;
     background-position: bottom right;
 }
 
-img{
+img {
     max-width: 100%;
     height: auto;
     border: 10px solid #003E3F;
@@ -32,7 +32,7 @@ li {
     font-size: 1rem;
 }
 
-p{
+p {
     color: #003E3F;
     font-size: 1rem;
 }
@@ -48,6 +48,6 @@ h2 {
     color: #0B132B;
 }
 
-a:hover{
+a:hover {
     color: darkblue;
 }
