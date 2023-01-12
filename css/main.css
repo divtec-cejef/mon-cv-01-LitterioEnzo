@@ -21,6 +21,8 @@ main{
 }
 
 img{
+    max-width: 100%;
+    height: auto;
     border: 10px solid #003E3F;
     box-shadow: 0 0 30px #000000;
 }
