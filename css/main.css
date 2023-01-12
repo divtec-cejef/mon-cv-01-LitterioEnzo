@@ -22,6 +22,7 @@ main{
 
 img{
     border: 10px solid #003E3F;
+    box-shadow: 0 0 30px #000000;
 }
 
 li {
