@@ -6,9 +6,8 @@ body {
     text-align: left;
 }
 header{
-    border-bottom: 5px double #003E3F;
+    border-bottom: 10px double #003E3F;
     display: flex;
-    font-size: 2rem;
 }
 img{
     border: 10px solid #003E3F;
