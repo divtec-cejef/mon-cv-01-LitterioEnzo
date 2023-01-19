@@ -8,18 +8,6 @@ body {
     margin-right: 20%;
 }
 
-header {
-    border-bottom: 10px double #003E3F;
-    display: flex;
-    justify-content: center;
-}
-
-main {
-    background-image: url("../images/vaisseau.png");
-    background-repeat: no-repeat;
-    background-position: bottom right;
-}
-
 img {
     max-width: 100%;
     height: auto;
@@ -48,6 +36,22 @@ h2 {
     color: #0B132B;
 }
 
+a {
+    color: darkgreen;
+}
+
 a:hover {
     color: darkblue;
+}
+
+header {
+    border-bottom: 10px double #003E3F;
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    background-image: url("../images/vaisseau.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
